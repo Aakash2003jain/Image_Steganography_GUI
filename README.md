@@ -59,7 +59,3 @@ Watch the demo video to see how the application works:
 
 ---
 
-
-## Contact
-👤 **Aakash Jain**  
-🔗 GitHub: [Aakash2003jain](https://github.com/Aakash2003jain)

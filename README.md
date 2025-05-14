@@ -54,6 +54,9 @@ python ImageS.py
 Watch the demo video to see how the application works:  
 📹 [Demo Video](https://raw.githubusercontent.com/Aakash2003jain/Image_Steganography_GUI/main/demo.mp4)
 
+## License
+   This project is licensed under the MIT License. See the LICENSE file for more details.
+
 ---
 
 
